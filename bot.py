@@ -143,5 +143,5 @@ def main():
     print("VedantStocks_bot is running...")
     app.run_polling()
 
-if __name__ == "__main__":
-    main()
+
+
